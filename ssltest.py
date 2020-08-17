@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # inspired by 'TrullJ'
-__author__ = 'Prajwal Panchmahalkar'
+__author__ = '@psc4re'
 import sys
 import json
 import time
